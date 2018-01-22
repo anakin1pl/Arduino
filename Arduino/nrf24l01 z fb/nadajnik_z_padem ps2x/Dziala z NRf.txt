@@ -1,0 +1,2 @@
+Pad dziala z nrf 
+Wyswietla 20 przyciskow
